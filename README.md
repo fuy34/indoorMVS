@@ -1,6 +1,6 @@
 # IndoorMVS: Indoor Priors Inspired Multi-view Stereo Network
 
-This is a PyTorch implementation of the indoor MVS method proposed in my [Ph.D. dissertation]() (Chapter 4). We developed 
+This is a PyTorch implementation of the indoor MVS method proposed in my [Ph.D. dissertation](https://drive.google.com/file/d/1gvmFLj1Q37N783XiKvvf969EV0co3hr6/view) (Chapter 4). We developed 
 a new indoor 3D plan instance dataset and proposed a TSDF-based MVS model that can simultaneously estimate the 3D geometry,
 semantics, and major plane instances from posed images. 
 
