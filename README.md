@@ -6,6 +6,8 @@ semantics, and major plane instances from posed images.
 
 Please feel free to contact [Fengting Yang](http://personal.psu.edu/fuy34/) (fuy34bkup@gmail.com) if you have any questions.
 
+## News
+We have proposed another powerful indoor MVS method called [PlanarRecon](https://github.com/neu-vi/PlanarRecon). Please feel free to check it out. 
 
 ## Prerequisites
 The code is developed and tested with
